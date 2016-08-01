@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_time_text_size">35dp</dimen>
+    <dimen name="digital_time_text_size_round">35dp</dimen>
+    <dimen name="digital_weather_text_size">20dp</dimen>
+    <dimen name="digital_weather_text_size_round">20dp</dimen>
+    <dimen name="digital_date_text_size">15dp</dimen>
+    <dimen name="digital_date_text_size_round">15dp</dimen>
+    <dimen name="digital_time_x_offset">45dp</dimen>
+    <dimen name="digital_time_x_offset_round">65dp</dimen>
+    <dimen name="digital_date_x_offset">35dp</dimen>
+    <dimen name="digital_date_x_offset_round">50dp</dimen>
+    <dimen name="digital_time_y_offset">70dp</dimen>
+    <dimen name="digital_date_y_offset">95dp</dimen>
+</resources>
